@@ -1,0 +1,17 @@
+{
+  "server": {
+    "host": "172.16.84.102",
+    "isSecure": false,
+    "prefix": "hdr",
+    "headers": {
+      "hdr-usr": "WIN-MOMDUND9RTR\\administrator",
+      "cache-control": "no-cache"
+    },
+    "addParams": {
+      "withCredentials": false
+    }
+  },
+  "desktop": {
+    "destination": "C:\\Users\\%username%\\Documents\\Qlik\\Sense\\Extensions"
+  }
+}
