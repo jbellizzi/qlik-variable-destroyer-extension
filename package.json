@@ -18,6 +18,7 @@
     "watch-vanilla-deploy-desktop": "qext-scripts -W -D"
   },
   "devDependencies": {
+    "babel-plugin-transform-object-rest-spread": "^6.26.0",
     "qext-scripts": "^0.5.0"
   },
   "dependencies": {
