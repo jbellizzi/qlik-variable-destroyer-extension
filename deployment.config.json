@@ -12,6 +12,6 @@
     }
   },
   "desktop": {
-    "destination": "C:\\Users\\%username%\\Documents\\Qlik\\Sense\\Extensions"
+    "destination": "/Users/johnbellizzi/Desktop/Qlik Core/qlik-core-desktop/Extensions"
   }
 }
